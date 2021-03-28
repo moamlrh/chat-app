@@ -16,3 +16,12 @@ CHAT APP with MERN stack (nodejs, mongodb, expressjs, reactjs)
   
  // http://localhost:3000 :)
 ```
+
+## ----------------------------------
+- auth with jsonwebtoken (jwt)
+- database with mongodb
+- live status
+- live messages
+- notif if u have new msg
+- block user
+- more ..
